@@ -14,3 +14,5 @@ GCDTimer，解决后台计时器停止问题  使用方法：
                     }];    
          }  
 ```
+
+![展示图](https://github.com/diankuanghuolong/GCDTimerDemo/blob/master/GCDTimer/showImages/HaiGCDTimer.gif)
