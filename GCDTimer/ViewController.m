@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import <GCDTimerFramework/GCDTimerFramework.h>
+#import <HaiGCDTimerFramework/HaiGCDTimerFramework.h>
 
 @interface ViewController ()
 

@@ -7,16 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B62D3AF91FFC9C0900EF0E47 /* HaiGCDTimerFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B62D3AF81FFC9C0900EF0E47 /* HaiGCDTimerFramework.framework */; };
 		B6DB07B31FFB7D52009EA59C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B6DB07B21FFB7D52009EA59C /* AppDelegate.m */; };
 		B6DB07B61FFB7D52009EA59C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6DB07B51FFB7D52009EA59C /* ViewController.m */; };
 		B6DB07B91FFB7D52009EA59C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6DB07B71FFB7D52009EA59C /* Main.storyboard */; };
 		B6DB07BB1FFB7D52009EA59C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6DB07BA1FFB7D52009EA59C /* Assets.xcassets */; };
 		B6DB07BE1FFB7D52009EA59C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6DB07BC1FFB7D52009EA59C /* LaunchScreen.storyboard */; };
 		B6DB07C11FFB7D52009EA59C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B6DB07C01FFB7D52009EA59C /* main.m */; };
-		B6DB07C81FFB7D6B009EA59C /* GCDTimerFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6DB07C71FFB7D6B009EA59C /* GCDTimerFramework.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B62D3AF81FFC9C0900EF0E47 /* HaiGCDTimerFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HaiGCDTimerFramework.framework; sourceTree = "<group>"; };
 		B6DB07AE1FFB7D52009EA59C /* GCDTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCDTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6DB07B11FFB7D52009EA59C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B6DB07B21FFB7D52009EA59C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -27,7 +28,6 @@
 		B6DB07BD1FFB7D52009EA59C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B6DB07BF1FFB7D52009EA59C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B6DB07C01FFB7D52009EA59C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B6DB07C71FFB7D6B009EA59C /* GCDTimerFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GCDTimerFramework.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B6DB07C81FFB7D6B009EA59C /* GCDTimerFramework.framework in Frameworks */,
+				B62D3AF91FFC9C0900EF0E47 /* HaiGCDTimerFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,7 +65,7 @@
 				B6DB07B21FFB7D52009EA59C /* AppDelegate.m */,
 				B6DB07B41FFB7D52009EA59C /* ViewController.h */,
 				B6DB07B51FFB7D52009EA59C /* ViewController.m */,
-				B6DB07C71FFB7D6B009EA59C /* GCDTimerFramework.framework */,
+				B62D3AF81FFC9C0900EF0E47 /* HaiGCDTimerFramework.framework */,
 				B6DB07B71FFB7D52009EA59C /* Main.storyboard */,
 				B6DB07BA1FFB7D52009EA59C /* Assets.xcassets */,
 				B6DB07BC1FFB7D52009EA59C /* LaunchScreen.storyboard */,
