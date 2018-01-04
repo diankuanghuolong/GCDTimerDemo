@@ -1,6 +1,0 @@
-framework module HaiGCDTimerFramework {
-  umbrella header "HaiGCDTimerFramework.h"
-
-  export *
-  module * { export * }
-}

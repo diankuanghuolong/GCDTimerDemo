@@ -10,8 +10,6 @@
 #endif
 #endif
 
-#import "HaiGCDTimerFramework.h"
-#import "HaiTimer.h"
 #import "HaiTimer.h"
 
 FOUNDATION_EXPORT double HaiGCDTimerPodVersionNumber;

@@ -1,6 +1,6 @@
 {
   "name": "HaiGCDTimerPod",
-  "version": "1.0.0",
+  "version": "2.2.0",
   "summary": "summary HaiGCDTimerPod",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/diankuanghuolong/GCDTimerDemo",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/diankuanghuolong/GCDTimerDemo.git",
-    "tag": "1.0.0"
+    "tag": "2.2.0"
   },
   "platforms": {
     "ios": "8.0"
