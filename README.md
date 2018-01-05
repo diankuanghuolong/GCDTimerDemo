@@ -1,4 +1,6 @@
 # GCDTimerDemo
+[简书](https://www.jianshu.com/p/b3d9a6d46675)
+
 GCDTimer，解决进入后台，计时器停止问题  使用方法：
 
 将Demo中的 HaiGCDTimerFramework.framework拖入你的项目中，然后在要实现的地方导入，并实现下面方法：
