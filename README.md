@@ -1,4 +1,8 @@
 # GCDTimerDemo
+
+[![Github All Releases](https://img.shields.io/github/downloads/diankuanghuolong/GCDTimerDemo/total.svg)](https://github.com/diankuanghuolong/GCDTimerDemo)
+[![Github Releases](https://img.shields.io/github/downloads/diankuanghuolong/GCDTimerDemo/latest/total.svg)](https://github.com/diankuanghuolong/GCDTimerDemo)
+
 [简书](https://www.jianshu.com/p/b3d9a6d46675)
 
 GCDTimer，解决进入后台，计时器停止问题  使用方法：
