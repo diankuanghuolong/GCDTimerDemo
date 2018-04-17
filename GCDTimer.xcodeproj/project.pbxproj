@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B62A89DD2085BD8A002F5B54 /* HaiGCDTimerFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B62A89DC2085BD8A002F5B54 /* HaiGCDTimerFramework.framework */; };
 		B62D3BEA1FFCBEB100EF0E47 /* HaiGCDTimer.gif in Resources */ = {isa = PBXBuildFile; fileRef = B62D3BE91FFCBEB100EF0E47 /* HaiGCDTimer.gif */; };
-		B66D7E341FFDBA5100C84822 /* HaiGCDTimerFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B66D7E331FFDBA5100C84822 /* HaiGCDTimerFramework.framework */; };
 		B6DB07B31FFB7D52009EA59C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B6DB07B21FFB7D52009EA59C /* AppDelegate.m */; };
 		B6DB07B61FFB7D52009EA59C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6DB07B51FFB7D52009EA59C /* ViewController.m */; };
 		B6DB07B91FFB7D52009EA59C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6DB07B71FFB7D52009EA59C /* Main.storyboard */; };
@@ -18,8 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B62A89DC2085BD8A002F5B54 /* HaiGCDTimerFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HaiGCDTimerFramework.framework; sourceTree = "<group>"; };
 		B62D3BE91FFCBEB100EF0E47 /* HaiGCDTimer.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HaiGCDTimer.gif; sourceTree = "<group>"; };
-		B66D7E331FFDBA5100C84822 /* HaiGCDTimerFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HaiGCDTimerFramework.framework; sourceTree = "<group>"; };
 		B6DB07AE1FFB7D52009EA59C /* GCDTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCDTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6DB07B11FFB7D52009EA59C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B6DB07B21FFB7D52009EA59C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B66D7E341FFDBA5100C84822 /* HaiGCDTimerFramework.framework in Frameworks */,
+				B62A89DD2085BD8A002F5B54 /* HaiGCDTimerFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,7 +75,7 @@
 				B6DB07B21FFB7D52009EA59C /* AppDelegate.m */,
 				B6DB07B41FFB7D52009EA59C /* ViewController.h */,
 				B6DB07B51FFB7D52009EA59C /* ViewController.m */,
-				B66D7E331FFDBA5100C84822 /* HaiGCDTimerFramework.framework */,
+				B62A89DC2085BD8A002F5B54 /* HaiGCDTimerFramework.framework */,
 				B62D3BE81FFCBE9E00EF0E47 /* showImages */,
 				B6DB07B71FFB7D52009EA59C /* Main.storyboard */,
 				B6DB07BA1FFB7D52009EA59C /* Assets.xcassets */,

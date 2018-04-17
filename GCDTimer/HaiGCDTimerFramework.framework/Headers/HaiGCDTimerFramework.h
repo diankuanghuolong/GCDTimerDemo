@@ -2,13 +2,12 @@
 //  HaiGCDTimerFramework.h
 //  HaiGCDTimerFramework
 //
-//  Created by Ios_Developer on 2018/1/4.
-//  Copyright © 2018年 hai. All rights reserved.
+//  Created by Ios_Developer on 2018/4/17.
+//  Copyright © 2018年 com.Hai. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import "HaiTimer.h"
-
 //! Project version number for HaiGCDTimerFramework.
 FOUNDATION_EXPORT double HaiGCDTimerFrameworkVersionNumber;
 
