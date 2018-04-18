@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'HaiGCDTimerPod_Example' do
+  pod 'HaiGCDTimerPod', :path => '../'
+
+  target 'HaiGCDTimerPod_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end
