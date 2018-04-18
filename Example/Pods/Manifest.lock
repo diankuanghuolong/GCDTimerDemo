@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - HaiGCDTimerPod (3.0.0)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - Expecta
+  - HaiGCDTimerPod (from `../`)
+  - Specta
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  HaiGCDTimerPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  HaiGCDTimerPod: 8766c70ed4fbf7b454571005fce113ce76bca283
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: aad83ba32d1901a9dfdf610f0d5b45ed9e68a9b8
+
+COCOAPODS: 1.5.0

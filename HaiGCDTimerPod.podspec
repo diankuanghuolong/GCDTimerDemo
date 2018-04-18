@@ -7,36 +7,56 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'HaiGCDTimerPod'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of HaiGCDTimerPod.'
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+#=====  名称、版本号、摘要=====
 
-  s.description      = <<-DESC
+s.name            = 'HaiGCDTimerPod'
+
+s.version          = '3.0.0'
+
+s.summary          ='summary HaiGCDTimerPod'
+
+#===== 详情  =====
+
+s.description      = <<-DESC
 TODO: Add long description of the pod here.
-                       DESC
+DESC
 
-  s.homepage         = 'https://github.com/diankuanghuolong/HaiGCDTimerPod'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'diankuanghuolong' => '3243388139@qq.com' }
-  s.source           = { :git => 'https://github.com/diankuanghuolong/HaiGCDTimerPod.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+#=====  仓库主页（你github或者其它git管理平台中，你这个项目对应的地址）  =====
 
-  s.ios.deployment_target = '8.0'
+s.homepage        = 'https://github.com/diankuanghuolong/GCDTimerDemo'
 
-  s.source_files = 'HaiGCDTimerPod/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'HaiGCDTimerPod' => ['HaiGCDTimerPod/Assets/*.png']
-  # }
+#=====  许可  =====
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+s.license          = { :type => 'MIT', :file => 'LICENSE' }
+
+#=====  作者  =====
+
+s.author          = { 'diankuanghuolong' => '3243388139@qq.com' }
+
+#=====  仓库源  =====
+
+s.source          = { :git => 'https://github.com/diankuanghuolong/GCDTimerDemo.git', :tag => "#{s.version}" }
+
+s.ios.deployment_target = '8.0'
+
+#===== 源文件目录  =====
+
+s.source_files = 'HaiGCDTimerPod/Classes/**/*'
+
+
+# s.resource_bundles = {
+
+#  'HaiGCDTimerPod' => ['HaiGCDTimerPod/Assets/*.png']
+
+# }
+
+# s.public_header_files = 'Pod/Classes/**/*.h'
+
+# s.frameworks = 'UIKit', 'MapKit'
+
+# s.dependency 'AFNetworking', '~> 2.3'
+
 end
+
+
